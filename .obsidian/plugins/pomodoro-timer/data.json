@@ -1,0 +1,18 @@
+{
+  "workLen": 25,
+  "breakLen": 5,
+  "autostart": false,
+  "useStatusBarTimer": false,
+  "notificationSound": true,
+  "customSound": "",
+  "showTaskProgress": true,
+  "enableTaskTracking": true,
+  "logFile": "NONE",
+  "logFocused": false,
+  "logPath": "",
+  "logLevel": "WORK",
+  "logTemplate": "",
+  "logFormat": "VERBOSE",
+  "useSystemNotification": true,
+  "taskFormat": "TASKS"
+}

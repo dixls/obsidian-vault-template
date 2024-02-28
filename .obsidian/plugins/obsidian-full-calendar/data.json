@@ -1,0 +1,21 @@
+{
+  "calendarSources": [
+    {
+      "type": "ical",
+      "color": "#eaa09c",
+      "url": "https://user.fm/calendar/v1-5192a7a8ff4da7831812c9ffec3bd1cb/Calendar.ics"
+    },
+    {
+      "type": "ical",
+      "color": "#408e7b",
+      "url": "https://user.fm/calendar/v1-70611982817b793e63fbcdb29c8230f1/Time%20Blocking.ics"
+    }
+  ],
+  "defaultCalendar": 0,
+  "firstDay": 0,
+  "initialView": {
+    "desktop": "timeGridDay",
+    "mobile": "timeGridDay"
+  },
+  "timeFormat24h": false
+}
