@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "c27d8430116fff12",
+        "id": "8ac264af803e07e7",
         "type": "tabs",
         "children": [
           {
-            "id": "e577badb897b097e",
+            "id": "8eb268a706908cc4",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "🗓️ Daily Notes/2024-02-27.md",
+                "file": "🗓️ Daily Notes/2025-05-28.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024-02-27"
+              "title": "2025-05-28"
             }
           }
         ]
@@ -105,7 +105,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "🗓️ Daily Notes/2024-02-27.md",
+                "file": "🗓️ Daily Notes/2025-05-28.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024-02-27"
+              "title": "Backlinks for 2025-05-28"
             }
           },
           {
@@ -124,12 +124,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "🗓️ Daily Notes/2024-02-27.md",
+                "file": "🗓️ Daily Notes/2025-05-28.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024-02-27"
+              "title": "Outgoing links from 2025-05-28"
             }
           },
           {
@@ -153,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "🗓️ Daily Notes/2024-02-27.md",
+                "file": "🗓️ Daily Notes/2025-05-28.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 2024-02-27"
+              "title": "Outline of 2025-05-28"
             }
           },
           {
@@ -205,15 +205,16 @@
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
       "workspaces:Manage workspace layouts": false,
-      "periodic-notes:Open today": false,
       "templater-obsidian:Templater": false,
       "table-editor-obsidian:Advanced Tables Toolbar": false,
       "homepage:Open homepage": false,
-      "pomodoro-timer:Toggle timer panel": false
+      "pomodoro-timer:Toggle timer panel": false,
+      "periodic-notes:Open today": false
     }
   },
-  "active": "e577badb897b097e",
+  "active": "8eb268a706908cc4",
   "lastOpenFiles": [
+    "🗓️ Daily Notes/2025-05-28.md",
     "🗓️ Daily Notes/2024-02-27.md",
     "⚙️ Templates/Daily Template.md",
     "🧑‍💼 People/person.md",
